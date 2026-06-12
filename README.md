@@ -75,8 +75,3 @@ The Streamlit web application allows users to:
 
 ---
 
-## Author
-
-Vishal
-
-Machine Learning and Full Stack Development Enthusiast
